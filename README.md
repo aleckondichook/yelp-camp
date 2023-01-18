@@ -10,7 +10,7 @@ This website is deployed and hosted on Heroku <a href="https://yelp-camp-portfol
 
 ### credentials to quickly test the app
 
-username - testuser
+username - testuser<br />
 password - testpassword
 
 ## tech stack
@@ -26,15 +26,12 @@ password - testpassword
   <tbody>
     <tr>
       <td>Javascript</td>
-      <td>EJS</td>
-    </tr>
-    <tr>
       <td>Node</td>
-      <td>MongoDB</td>
-      <td>Cloudinary</td>
+      <td>Express</td>
     </tr>
     <tr>
-      <td>Express</td>
+      <td>EJS</td>
+      <td>MongoDB</td>
       <td>Bootstrap</td>
     </tr>
   </tbody>
