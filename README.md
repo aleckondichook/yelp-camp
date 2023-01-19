@@ -21,7 +21,7 @@ To use this app locally, please enter the following commands in a terminal.
 git clone https://github.com/aleckondichook/yelp-camp
 cd yelp-camp
 npm install
-npm run start
+npm run dev
 ```
 
 ## tech stack
