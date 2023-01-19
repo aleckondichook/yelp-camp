@@ -13,6 +13,17 @@ This website is deployed and hosted on Heroku <a href="https://yelp-camp-portfol
 username - testuser<br />
 password - testpassword
 
+## setup
+
+To use this app locally, please enter the following commands in a terminal.
+
+```
+git clone https://github.com/aleckondichook/yelp-camp
+cd yelp-camp
+npm install
+npm run start
+```
+
 ## tech stack
 
 <table>
